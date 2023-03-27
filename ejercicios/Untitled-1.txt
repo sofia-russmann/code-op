@@ -1,0 +1,5 @@
+print("Hello world")
+x= "Hola!"
+space = " "
+y = "Mon"
+print(x + space + y)
